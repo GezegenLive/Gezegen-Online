@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "branded.m7cd34e30aceb408c9ac9744edcb86d7c.gezegen",
+      "sha256_cert_fingerprints": [
+        "45:4E:41:4E:23:E1:3E:EA:54:9B:81:97:B3:24:74:71:E2:1D:65:83:0E:16:83:7B:90:7D:35:E2:C2:94:68:18"
+      ]
+    }
+  }
+]
